@@ -1,0 +1,428 @@
+<resources>
+    <string name="app_name">30 Days of Famous Artworks</string>
+    <string name="number_of_days">Day %s</string>
+
+    <!-- ArtGallery Strings -->
+    <string name="art_gallery_title_1">Guanyin Pusa</string>
+    <string name="image_description_1">
+        Merchants trading in Silk Road goods, South and Central Asian Buddhist
+        proselytizers, and pilgrims who had traveled to India to study Buddhism at its source brought countless
+        paintings, scriptures, and small bronze sculptures to China and Tibet. These later served as the inspirations
+        for works commissioned by local patrons. Few early Chinese and Tibetan bronze sculptures, and even fewer
+        Indian prototypes, survive, as later generations melted them down to make coins, weapons, or new icons.
+        The fine statues on display here may have been objects of devotion that were set in portable shrines,
+        like the Korean example in the case to the right, for worship in lay people’s homes
+    </string>
+    <string name="work_type_1">Sculpture</string>
+    <string name="culture_1">Chinese</string>
+    <string name="date_1">early 8th century</string>
+
+    <string name="art_gallery_title_2">Five Views of an Elephant Combat</string>
+    <string name="image_description_2">
+        Howard Hodgkin and Terence McInerney, Indian Drawing : An Exhibition Chosen by Howard Hodgkin, exh. cat.,
+        Arts Council of Great Britain, London (London, England, 1983), Figure 29 Stuart Cary Welch and Kim Masteller,
+        From Mind, Heart, and Hand: Persian, Turkish, and Indian Drawings from the Stuart Cary Welch Collection, exh. cat.,
+        Yale University Press (New Haven, 2004), pp. 148-149, no. 48 Christine Temin, Fogg Shows Persian, Turkish, and Indian
+        Drawings, brochure, Harvard University Art Museums (Cambridge, MA, Spring 2005), p. 5 Stephan Wolohojian and
+        Alvin L. Clark, Jr., Harvard Art Museum/ Handbook, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 111
+    </string>
+    <string name="work_type_2">Drawings</string>
+    <string name="culture_2">Indian</string>
+    <string name="date_2">c. 1730</string>
+
+
+    <string name="art_gallery_title_3">A Prince Receives a Water Jug from a Young Woman at a Well</string>
+    <string name="image_description_3">
+        In this painting, a prince, mounted on a gray-blue horse, approaches an elaborate well complex.
+        His status is denoted by his turban with a large plume and his ornate dress. He reaches up to receive a small,
+        gold water jug from a young female figure in yellow. Behind her a group of women converse near the mouth of the well.
+        One of them holds a string that is connected to a vessel that is currently down the well. Four vessels are lined up
+        against the small railing. Rajput Style, Kishangarh School
+    </string>
+    <string name="work_type_3">Paintings</string>
+    <string name="culture_3">Indian</string>
+    <string name="date_3">c. 1745</string>
+
+
+    <string name="art_gallery_title_4">Young Man in a Blue Cloak</string>
+    <string name="image_description_4">
+        Persian miniatures reflect a profound significance within Islamic and Persian art history.
+        These miniature paintings, particularly from the Safavid period under Shah \'Abbas I, exemplify a pinnacle of artistic achievement.
+        Artists like Riza-yi Abbasi have left a lasting legacy through their intricate compositions, rich symbolism, and thematic diversity.
+        Scholars such as Eric Schroeder, Ivan Stchoukine, and Anthony Welch have illuminated the cultural and historical contexts of these miniatures,
+        emphasizing their socio-political relevance.Persian miniatures depict a range of subjects, from courtly scenes to mystical
+        narratives, showcasing the breadth of creativity in Safavid Iran. The dispersal and collection of these artworks, as
+        explored by Oleg Grabar and David Roxburgh, highlight their enduring appeal and cross-cultural influence.
+    </string>
+    <string name="work_type_4">painting</string>
+    <string name="culture_4">Persian</string>
+    <string name="date_4">c. 1587</string>
+
+    <string name="art_gallery_title_5">It\'s the Day for the Garden</string>
+    <string name="image_description_5">
+        The folio belongs to an illustrated copy of the Divan of Anvari commissioned by the Mughal emperor Akbar (r. 1556-1605)
+        in 1588 and in Lahore. The poet Anvari (1126-1189) is considered one of the greatest figures in Persian literature.
+        His panegyric in honor of the Seljuq sultan, Ahmad Sanjar (r. 1118-1157) earned him royal favor and the patronage of
+        two of Sanjar’s successors. Anvari’s poems were collected in a Divan, which contains eulogies, satire, panegyrics,
+        and other forms of poetry and prose.
+    </string>
+    <string name="work_type_5">Manuscripts</string>
+    <string name="culture_5">Indian, Mughal period</string>
+    <string name="date_5">c. 1588</string>
+
+    <string name="art_gallery_title_6">Angela</string>
+    <string name="image_description_6">
+        Published in Camera Work, no. 12 (1905). Several of Herzog\'s works, including \"The Banks of Lethe\" and
+        \"Twixt the Cup and the Lip,\" were included in Camera Work, and a copy of this issue is
+        also in the Fogg\'s photography holdings.
+    </string>
+    <string name="work_type_6">Photographs</string>
+    <string name="culture_6">American</string>
+    <string name="date_6">1905</string>
+
+    <string name="art_gallery_title_7">Death with Left Hand Raised</string>
+    <string name="image_description_7">
+        This statuette depicting a decomposing cadaver armed with a bow and arrows (now lost) is an example of the type of
+        “death figure” produced since the mid-16th century that served to remind the viewer of the transience of life and
+        earthly pleasures. The snakes emerging from the cadaver’s muscles and skin, signifying the temptation of Adam and Eve,
+        and the frogs—symbols of evil spirits—squatting inside the rib cage and on the sculpture’s base emphatically suggest
+        the cadaver’s physical and spiritual deterioration.
+    </string>
+    <string name="work_type_7">Sculpture</string>
+    <string name="culture_7">German</string>
+    <string name="date_7">1600-1650</string>
+
+    <string name="art_gallery_title_8">Grotesque Head of an "Orator"</string>
+    <string name="image_description_8">
+        Round head with thick, stubby ears, bulbous nose, partially closed eyes, an open mouth drawn down at the left corner
+        and a deeply wrinkled forehead. Figure appears bald, possibly due to a lack or loss of color. Hand modeled.Hard,
+        light brown caly with very little mica.
+    </string>
+    <string name="work_type_8">Sculpture</string>
+    <string name="culture_8">Greek</string>
+    <string name="date_8">323-150 BCE</string>
+
+
+    <string name="art_gallery_title_9">The Holy Family with the Infant Saint John the Baptist and Saint Elizabeth</string>
+    <string name="image_description_9">
+        One of a group of five paintings of the Holy Family that Poussin produced between 1648 and 1655,
+        this version is distinguished by the extensive landscape and the large bath basin that refers to Christ’s
+        later baptism. Poussin emphasized Christ’s humanity by showing him writhing in fear at his mother’s attempt
+        to bathe him. He receives firm support from the infant Saint John, who is accompanied by his mother, Saint
+        Elizabeth. The classical putti assisting the Virgin could represent the Holy Innocents martyred during King
+        Herod’s attempt to kill the infant Jesus. The landscape in this canvas is the most highly developed representation
+        of nature in this group of paintings. The large lake, the passerby, the carefully placed structures along the
+        water’s edge create a contemplative expanse of natural beauty
+    </string>
+    <string name="work_type_9">Paintings</string>
+    <string name="culture_9">French</string>
+    <string name="date_9">1650</string>
+
+    <string name="art_gallery_title_10">Maharana Bhim Singh of Mewar Returns from a Boar Hunt</string>
+    <string name="image_description_10">
+        The painting depicts Maharana Bhim Singh of Mewar (r. 1778-1828) returning from a boar hunt with his attendants
+        and retinue. The haloed king is mounted on a caparisoned horse holding a pig-sticking spear. He wears a green jama,
+        or robe, that is associated with aheria, or the spring hunt, when boars are hunted in Rajasthan. According to Rajasthani
+        tradition, it is believed that the outcome of aheria fortetold the fruitfulness of the kingdom for the year ahead. Bhim
+        Singh\'s had a successful hunt, alluded to by the several slain wild board strapped to the backs of the camels leading
+        the procession. At the bottom corner of the image are two members of the hunting retinue with Saluki hounds,
+        which were commonly used during boar hunting for stalking, chasing, and, at times, killing. A facloner is also present
+        among the procession.The attendants carry the necessary royal attributes: two attendants carry fly whisks
+        while one holds a sun-faced standard, which accompanies any Mewari royal procession. The sun is a symbol of the Mewar
+        royal family who believed that they were descendants of it.This painting was executed before Bhim Singh became the
+        first maharana of the Princely State of Udaipur.
+    </string>
+    <string name="work_type_10">Paintings</string>
+    <string name="culture_10">Indian</string>
+    <string name="date_10">c. 1810</string>
+
+    <string name="art_gallery_title_11">Kneeling Female Figure</string>
+    <string name="image_description_11">
+        Aztec sculptors used specific formal and aesthetic conventions to depict the human figure.
+        Seated female figures are usually shown with their legs tucked under them, their feet turned
+        inward so that in the back their toes are touching. Their hands rest on their knees. This sculpture
+        depicts an elegant Aztec lady wearing a short, simple skirt fastened around the waist with a knotted belt
+        worked in low relief. She wears no upper garment. Circular ornaments bedeck her ears. Her hair is wound about
+        her head in two strands and held at the top. Her face has delicate rounded contours and is gently animated.
+        The eyes and mouth are shown as recessed ovals which once contained inlays. Sculptures of females without any
+        deity attributes are rare in Aztec art. It is possible that this figure was dressed on specific days of the
+        ritual calendar in deity costumes made of cloth and/or other perishable materials.
+    </string>
+    <string name="work_type_11"> Stone-Sculpture</string>
+    <string name="culture_11">Aztec</string>
+    <string name="date_11">15th–early 16th century</string>
+
+    <string name="art_gallery_title_12">King of Navarre</string>
+    <string name="image_description_12">
+        Léonard Limosin was the greatest enamel painter working in the style of the School of Fontainebleau,
+        Italian Mannerists and French artists active at the French court from about 1530 to 1570. Limosin\'s
+        enameled portraits are numerous, and he has been ranked, along with Jean Clouet (1486–1540) and Corneille
+        de Lyon (before 1500–1574), as the best portrait painter of Renaissance France. This plaque, one of at least
+        six based on a drawing attributed to Limosin (Bibliothèque Nationale, Paris), portrays the brother-in-law of
+        the French king, François I (1497–1547), who ruled the independent kingdom of Navarre from 1518 until 1555.
+    </string>
+    <string name="work_type_12">Enamels </string>
+    <string name="culture_12">French, Limoges</string>
+    <string name="date_12">1556</string>
+
+    <string name="art_gallery_title_13">Bar</string>
+    <string name="image_description_13">
+        In 1947, Christian Dior presented a collection of wasp-waisted and hip-padded designs.
+        The American press immediately dubbed it the \"New Look.\" The collection was a repudiation
+        of the styles of the 1920s and 1930s, and it was also clearly indebted to the styles and body-shapers
+        of the late nineteenth century. \"The Bar Suit\" was considered the most iconic model in the collection,
+        manifesting all the attributes of Dior\'s dramatic atavism.
+    </string>
+    <string name="work_type_13">Cloths </string>
+    <string name="culture_13">French</string>
+    <string name="date_13">1958</string>
+
+
+
+    <string name="art_gallery_title_14">Melencolia I</string>
+    <string name="image_description_14">
+        Dürer\'s Melencolia I is one of three large prints of 1513 and 1514 known as his Meisterstiche (master engravings).
+        The other two are Knight, Death, and the Devil (43.106.2) and Saint Jerome in His Study (19.73.68).
+        The three are in no way a series, but they do correspond to the three kinds of virtue in medieval scholasticism—moral,
+        theological, and intellectual—and they embody the complexity of Dürer\'s thought and that of his age.
+        Melencolia I is a depiction of the intellectual situation of the artist and is thus, by extension,
+        a spiritual self-portrait of Dürer. In medieval philosophy each individual was thought to be dominated by
+        one of the four humors; melancholy, associated with black gall, was the least desirable of the four,
+        and melancholics were considered the most likely to succumb to insanity. Renaissance thought, however,
+        also linked melancholy with creative genius; thus, at the same time that this idea changed the status of this humor,
+        it made the self-conscious artist aware that his gift came with terrible risks.The winged personification of Melancholy,
+        seated dejectedly with her head resting on her hand, holds a caliper and is surrounded by other tools associated with
+        geometry, the one of the seven liberal arts that underlies artistic creation—and the one through which Dürer,
+        probably more than most artists, hoped to approach perfection in his own work. An influential treatise,
+        the De Occulta Philosophia of Cornelius Agrippa of Nettesheim, almost certainly known to Dürer, probably holds
+        the explanation for the number I in the title: creativity in the arts was the realm of the imagination,
+        considered the first and lowest in the hierarchy of the three categories of genius. The next was the realm of reason,
+        and the highest the realm of spirit. It is ironic that this image of the artist paralyzed and powerless exemplifies
+        Dürer\'s own artistic power at its superlative height.
+    </string>
+    <string name="work_type_14">Prints </string>
+    <string name="culture_14">German</string>
+    <string name="date_14">1958</string>
+
+    <string name="art_gallery_title_15">Now!</string>
+    <string name="image_description_15">
+        Fuss\'s outsized photogram records time and energy rather than material form. His large sheet of photographic paper,
+        floating in a tray of water, was exposed to a bright flash of light at the very moment—Now!—when he splashed a
+        bucket of water onto it. The plunging of the water on the paper\'s \"landscape\" and the rippling concentric waves
+        and myriad individual droplets on the water\'s surface were all recorded on Fuss\'s sheet, but the abstract pattern
+        seems rather to record the birth of a solar system or the splitting of atoms.
+    </string>
+    <string name="work_type_15">Photographs </string>
+    <string name="culture_15">New York</string>
+    <string name="date_15">1988</string>
+
+    <string name="art_gallery_title_16">Clarinet in B-flat</string>
+    <string name="image_description_16">
+        The ivory body of this clarinet and its ornate gold plated keys suggest that it was a special
+        commission or presentation piece. Its bell proclaims Sax’s status as musical instrument maker to
+        the court of the Kingdom of the Netherlands. This instrument is also distinguished by its early
+        use of Ivan Müller’s improved thirteen-key system, which became the preferred choice of most clarinet
+        players until the beginning of the twentieth century.
+    </string>
+    <string name="work_type_16">Aerophone-Reed Vibrated-single reed cylindrical </string>
+    <string name="culture_16">Brussels, Belgium</string>
+    <string name="date_16">1830</string>
+
+    <string name="art_gallery_title_17">Bronze statuette of a young woman</string>
+    <string name="image_description_17">
+        This statue, perhaps the best-known Etruscan figural bronze in the Museum\'s collection,
+        was produced at one of the major bronze working centers, probably Vulci or Chiusi.
+        The artist was clearly inspired by archaic Greek korai, votive statues of young women,
+        a connection especially noticeable in the typical frontal pose with right hand extended
+        and left hand holding the garment. However, the sculptor was not especially concerned about
+        the accurate depiction of costume. The Greek himation (cloak), for example, is misrepresented.
+        The folds so prominently visible from the front are absent on the back of the statue, perhaps
+        an indication that the artist was looking at a two-dimensional source such as a relief sculpture
+        or vase painting rather than a sculpture in the round. In any case, he clearly was more interested
+        in rich surface embellishment than in realistic rendering of drapery and produced a wealth
+        of engraved details in the hair, jewelry, sewn seams, decorated hems, and drapery folds.
+        The pointed shoes (calcei repandi), here elaborately rendered with meticulously detailed
+        laces and floral ornament, are distinctively Etruscan. The figure\'s left foot is a modern restoration.
+    </string>
+    <string name="work_type_17">Bronzes </string>
+    <string name="culture_17">Etruscan</string>
+    <string name="date_17"> late 6th century BCE</string>
+
+    <string name="art_gallery_title_18">Bronze head of a griffin</string>
+    <string name="image_description_18">
+        Bronze cauldrons set on tripods or conical stands were among the most spectacular votive gifts dedicated
+        in Greek sanctuaries from the eighth to the sixth centuries B.C. Cast-bronze griffins\'
+        heads often decorated the cauldron rims; they projected outward from the shoulder of the vessel
+        on long necks made of hammered or cast bronze. Some of the dedicated cauldrons were colossal.
+        The Greek historian Herodotus describes one made for King Kroisos of Lydia that could hold 2,700
+        gallons and another dedicated on the island of Samos that was supported by huge kneeling figures.
+        Over six hundred bronze griffins\' heads from cauldrons are known today; most have been found at the
+        sanctuary of Zeus at Olympia or at that of Hera on Samos. This enormous head is one of the finest.
+    </string>
+    <string name="work_type_18">Bronzes </string>
+    <string name="culture_18">Greek</string>
+    <string name="date_18"> third quarter of the 7th century BCE</string>
+
+
+    <string name="art_gallery_title_19">The Love Song</string>
+    <string name="image_description_19">
+        Burne-Jones exhibited this painting with the lyrics "Alas, I know a love song, / Sad or happy,
+        each in turn." Cupid, with arrows slung over his shoulder, pumps the organ at right. Burne-Jones
+        associated the scene with his affair with artist and model Maria Zambaco (1843–1914). More broadly,
+        the picture reflects the embrace of music as a model for art that appeals directly to the emotions.
+        As one critic said of this painting, "There is no story: nothing to guess at, but everything to feel.
+        "It was first owned by businessman William Graham, who commissioned the Small Briar Rose series displayed nearby.
+        Also on view are works by, and a bust of, Puvis de Chavannes, who championed Burne-Jones’s art in France.
+        Their shared devotion to an idealized and dreamlike past earned Puvis the moniker "the French Burne-Jones."
+    </string>
+    <string name="work_type_19">Paintings </string>
+    <string name="culture_19">British</string>
+    <string name="date_19"> 1868–77</string>
+
+    <string name="art_gallery_title_20">Folio from the \"Blue Qur\'an\"</string>
+    <string name="image_description_20">
+        This folio comes from a sumptuous, multi volume Qur\'an with indigo pages and silver verse markers that was probably
+        copied in North Africa. Its palette is thought to refer to the purple‑dyed, gilded manuscripts made in the
+        neighboring Byzantine empire. As in other early Qur\'ans, the script here is difficult to read because the
+        letters have been manipulated to make each line the same length, and the marks necessary to distinguish between
+        letters have been omitted.
+    </string>
+    <string name="work_type_20">Codices </string>
+    <string name="culture_20">Made in Tunisia</string>
+    <string name="date_20"> second half 9th–mid-10th century</string>
+
+    <string name="art_gallery_title_21">Set of jewelry</string>
+    <string name="image_description_21">
+        he tomb group represents one of the richest and most impressive sets of Etruscan jewelry ever found.
+        It comprises a splendid gold and glass pendant necklace, a pair of gold and rock-crystal disk earrings,
+        a gold dress fastener (fibula) decorated with a sphinx, a pair of plain gold fibulae, a gold dress pin,
+        and five finger rings. Two of the rings have engraved scarabs that revolve on a swivel bezel; one is decorated
+        with embossed satyr heads, and the other two have decorated gold bezels.
+    </string>
+    <string name="work_type_21">Etruscan </string>
+    <string name="culture_21">Unknown</string>
+    <string name="date_21"> Late Archaic</string>
+
+    <string name="art_gallery_title_22">Wheat Fields</string>
+    <string name="image_description_22">
+        Twenty-seven views of fields by Ruisdael survive today. In this celebrated example, the artist used the building
+        blocks of land, sky, and sea to create an imposing vision of cultivated nature. On the road before us, a man with a
+        traveler’s pack approaches a woman and child, while the cumulus clouds dominating the sky add their own element of
+        drama. A glimpse of boats at sea on the far left knits this quintessentially Dutch landscape into the wider world.
+    </string>
+    <string name="work_type_22">Paintings </string>
+    <string name="culture_22">Dutch, Amsterdam</string>
+    <string name="date_22"> ca. 1670</string>
+
+    <string name="art_gallery_title_23">Madonna and Child</string>
+    <string name="image_description_23">
+        The Madonna and Child are shown in a contemporary Florentine palace. Through the window is an arcade with the
+        armorial device of the wealthy Florentine banker Filippo Strozzi (three crescents). The background evokes the
+        area around the Strozzi villa near Florence. A Black man can be seen on a bridge spearing fish,
+        and outside a house a Black woman performs domestic tasks. Enslaved people from sub-Saharan Africa
+        began arriving in Florence through Portugal in the 1460s, and documents record the presence of enslaved people
+        in Strozzi\’s household.
+    </string>
+    <string name="work_type_23">Paintings </string>
+    <string name="culture_23">Italian</string>
+    <string name="date_23"> ca. 1483–84</string>
+
+    <string name="art_gallery_title_24">A Pair of Royal Earrings</string>
+    <string name="image_description_24">
+        The place of these earrings in the history of Indian art is assured, not only for their intrinsic beauty but also
+        because of the light they shed on the superb quality of goldsmithing early in this region. Early Indian statues
+        of both male and female figures were usually portrayed wearing elaborate jewelry that sometimes seemed fanciful,
+        since very little comparable jewelry from that period survives. The discovery of this pair of earrings provided the
+        first tangible evidence that the jewelry depicted by sculptors was in fact based on real models,
+        for a very similar pair is shown on a first century B.C. relief portrait of a \"Universal Ruler\" (chakravartin),
+        from Jaggayapeta.These earrings, judging from their material worth, excellence of craftsmanship,
+        and use of royal emblems (a winged lion and an elephant) as part of their design, were most probably made as
+        royal commissions. Each earring is composed of two rectangular, budlike forms growing outward from a central,
+        double-stemmed tendril. The elephant and the lion of repoussé gold are consummately detailed, using granules,
+        snippets of wire and sheet, and individually forged and hammered pieces of gold. The two pieces are not exactly
+        identical: on the underside they are both decorated with a classical early Indian design of a vase containing
+        three palmettes, but the patterning of the fronds differentiates them. They are so large and heavy that they must
+        have distended the earlobes and rested on the shoulders of the wearer, like the pair worn by the \"Universal Ruler.\"
+    </string>
+    <string name="work_type_24">Jewelry </string>
+    <string name="culture_24">India (probably Andhra Pradesh)</string>
+    <string name="date_24"> ca. 1st century BCE</string>
+
+    <string name="art_gallery_title_25">Krishna and Balarama Fight the Evil King </string>
+    <string name="image_description_25">
+       Kamsa sent Canura and Mushthika, two mountainlike wrestlers who had limbs as strong as lightning,
+        to confront the youthful Krishna and Balarama. The climactic moment is statically presented with
+        great formal drama. Such scenes of conflict serve as metaphors for Krishna’s destruction of corruption.
+        The deep brown background and brightly lit action set against a night sky are typical of the fully developed
+        Malwa aesthetic. (This page is from the same manuscript as 1974.116.)
+    </string>
+    <string name="work_type_25">Paintings </string>
+    <string name="culture_25">India (Madhya Pradesh, Malwa)</string>
+    <string name="date_25"> ca. 1650</string>
+
+    <string name="art_gallery_title_26">Portrait of Alain de Coëtivy (1407–1474) </string>
+    <string name="image_description_26">
+       An outstanding and rare survival of a fifteenth-century French work on paper, this drawing is the work of painter
+        and illuminator Jean Fouquet, whose home city of Tours was the preferred residence of the French royal court.
+        It is inscribed, \"a Roman legate of our Holy Father in France.\" Recent scholarship by Claudia Märtel has plausibly
+        proposed the subject as Alain (IV) de Coëtivy (1407–1474), Cardinal of Saint Praxedes in Rome from 1448.
+        He acted as papal legate of Callixtus III to France from 1451–53 and from 1454–55.
+    </string>
+    <string name="work_type_26">Drawings </string>
+    <string name="culture_26">French</string>
+    <string name="date_26"> ca. 1451–55</string>
+
+    <string name="art_gallery_title_27"> Christ Crucified between the Two Thieves: The Three Crosses </string>
+    <string name="image_description_27">
+       The Three Crosses, one of Rembrandt\'s finest works in any medium, represents the culmination of his virtuosity as
+        a printmaker. He drew on the copperplate entirely in drypoint which allowed him to fully exploit the velvety areas
+        of burr raised by the drypoint tool as it cut into the copper. When Rembrandt created this impression,
+        he deliberately left ink on the printing plate; it lightly veils the figures standing at the foot of the cross
+        on the right; a thicker layer almost completely covers the bushes along the right edge. By creatively inking the
+        copperplate, Rembrandt in a certain sense painted each impression. Each time he printed the copperplate he created
+        a unique work. He further varied impressions by printing them on different supports; this impression is printed on
+        vellum, which infuses the composition with a warm light. Vellum, less absorbent than paper, holds ink on the
+        surface, softening lines and enhancing the richness of entire effect.
+    </string>
+    <string name="work_type_27">Prints </string>
+    <string name="culture_27">Christian</string>
+    <string name="date_27"> 1653</string>
+
+    <string name="art_gallery_title_28"> Shah Jahan on a Terrace, Holding a Pendant Set With His Portrait </string>
+    <string name="image_description_28">
+       The presentation of the emperor amplifies the formula evolved during the reigns of Akbar and Jahangir.
+        Shah Jahan is exquisitely dressed and richly adorned with jewels, his imperial rank emphasized by his
+        radiating halo and the hovering angels borrowed from European art. The skills of many craftsmen and designers
+        of the Mughal court—jewelers, weavers, architects, feather workers, armorers, stonecutters,
+        and others—are represented here. This is Chitarman’s earliest dated picture, painted soon after Shah Jahan’s
+        accession.
+    </string>
+    <string name="work_type_28">Codices </string>
+    <string name="culture_28">Attributed to India</string>
+    <string name="date_28"> 1627–28</string>
+
+    <string name="art_gallery_title_29"> Bone book, E. K.</string>
+    <string name="image_description_29">
+       Realistic closed book charm, incised in a traditional bookbinding design with four large corners on both covers.
+        The lines which make the borders and corners are filled with red wax; decorative dots, central motifs are
+        filled with black wax. The front cover has the \"E.K\" and the back has two intersecting curves,
+        similar to an infinity motif. The rounded spine has two raised bands, one thick (top), one thin (bottom).
+        \-\-description by Mindell Dubansky in consultation with Lynn Heckman
+    </string>
+    <string name="work_type_29">Ancient </string>
+    <string name="culture_29">Unknown</string>
+    <string name="date_29"> between 1800 and 1899</string>
+
+    <string name="art_gallery_title_30">The Free Man\'s Companion </string>
+    <string name="image_description_30">
+      This page from an anthology of Persian poetry illustrates a poem about the moon as it enters the houses of all
+        twelve zodiac signs. In the three scenes here, the moon is shown visiting Gemini, depicted as two youths with
+        joined, reptile like tails, then in the house of Cancer, a large, scaly crab, and finally seated next to the
+        lion of Leo.
+    </string>
+    <string name="work_type_30">Codices </string>
+    <string name="culture_30">Iranian</string>
+    <string name="date_30"> dated 741 AH/1340–41 CE</string>
+
+
+</resources>
